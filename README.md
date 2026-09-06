@@ -1,9 +1,12 @@
 # Travel Guidebook for Texas Wineries
 
 ## Overview
-This is the repository for the team project assignment for class ENG-5311. We will be working on a travel guidebook for vineyards located in the Texas Hill Country area. This guidebook is intended to provide an all-in-one overview for travelers to reduce the need to refer to multiple websites and sources.
+This is the repository for the team documentation project assignment for Foundations of Technical Communication. We will be working on a travel guidebook for vineyards located in the Texas Hill Country area. This guidebook is intended to provide an all-in-one overview for travelers to reduce the need to refer to multiple websites and sources. This repository will serve as a file server and change documentation for the guidebook, as well as a communication platform for the team regarding ongoing and future tasks.
 
 ## Directory
+
+### Main
+The readme is hosted here, and this is where the final draft of the guidebook will be committed to.
 
 ### Content
 The area where the written content for the guidebook will be hosted. This branch will be broken up according to the different vineyards covered.
@@ -41,3 +44,7 @@ Contains the **style sheet** which has guidelines for document formatting (vocab
   - **Wine catalog and details writer** *(Marcela Montoya)* - The wine catalog/details writer will be responsible for the wine selection sections for each vineyard, providing tasting notes and pricing. Their role will also include providing the detail text, such as image captions/alt text and applicable footnotes.
 - **Production/Layout Editor** *(Seth Huskey)* - The production/layout editor will be responsible for reviewing the writing teams’ submissions to maintain the style guidelines. They will also oversee the presentation and layout of the guidebook, ensuring a consistent visual language throughout. They will be the primary point of contact regarding the style sheet used for this project.
 - **Workflow Coordinator and GitHub Repository Manager** *(Marielle Sambilay)* - This role will be responsible for the distribution of working documents and coordinating team meetings. They will be maintaining and updating the GitHub repository with ongoing and completed tasks, and update main README according to established organization and naming conventions.
+
+
+## Contributors: 
+Burke De Boer, Christine Devenny, Seth Huskey, Marcela Montoya, Marielle Sambilay
