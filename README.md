@@ -19,12 +19,14 @@ The writing team will upload their initial drafts to this branch. Editor will re
 ---
 
 ### Assets
-Contains the assets to be used in the creation of the guidebook
+Contains the assets to be used in the creation of the guidebook. The researcher will upload their documentation to this branch, and the team can refer to this branch when writing/editing the guidebook.
 
 #### Images
 Where visual assets will be held:
   - Vineyard images
   - Website screenshots
+  - Wine images
+
 The alt text/image caption files will also be located here.
 #### Maps
 Maps of the vineyard locations will be uploaded here, as well as associated driving/transportation directions to the vineyards.
@@ -34,7 +36,7 @@ Where the researcher will upload text notes or sources relating to their finding
 ---
 
 ### Style Guide
-Contains the **style sheet** which has guidelines for document formatting (vocabulary, font and sizing)
+Contains the **style sheet** which has guidelines for document formatting (vocabulary, font and sizing).
 
 ---
 
@@ -47,6 +49,7 @@ Contains the **style sheet** which has guidelines for document formatting (vocab
 - **Production/Layout Editor** *(Seth Huskey)* - The production/layout editor will be responsible for reviewing the writing teams’ submissions to maintain the style guidelines. They will also oversee the presentation and layout of the guidebook, ensuring a consistent visual language throughout. They will be the primary point of contact regarding the style sheet used for this project.
 - **Workflow Coordinator and GitHub Repository Manager** *(Marielle Sambilay)* - This role will be responsible for the distribution of working documents and coordinating team meetings. They will be maintaining and updating the GitHub repository with ongoing and completed tasks, and update main README according to established organization and naming conventions.
 
+---
 
 ## Contributors: 
 Burke De Boer, Christine Devenny, Seth Huskey, Marcela Montoya, Marielle Sambilay
