@@ -19,8 +19,10 @@ Contains the assets to be used in the creation of the guidebook
 #### Images
 Where visual assets will be held:
   - Vineyard images
-  - Maps
   - Website screenshots
+The alt text/image caption files will also be located here.
+#### Maps
+Maps of the vineyard locations will be uploaded here, as well as associated driving/transportation directions to the vineyards.
 #### Notes
 Where the researcher will upload text notes or sources relating to their findings (website pages, pamphlets).
 
