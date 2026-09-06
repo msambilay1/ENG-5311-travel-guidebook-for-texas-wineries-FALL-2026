@@ -26,6 +26,7 @@ Where visual assets will be held:
   - Vineyard images
   - Website screenshots
   - Wine images
+
 The alt text/image caption files will also be located here.
 #### Maps
 Maps of the vineyard locations will be uploaded here, as well as associated driving/transportation directions to the vineyards.
