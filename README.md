@@ -19,12 +19,13 @@ The writing team will upload their initial drafts to this branch. Editor will re
 ---
 
 ### Assets
-Contains the assets to be used in the creation of the guidebook
+Contains the assets to be used in the creation of the guidebook. The researcher will upload their documentation to this branch, and the team can refer to this branch when writing/editing the guidebook.
 
 #### Images
 Where visual assets will be held:
   - Vineyard images
   - Website screenshots
+  - Wine images
 The alt text/image caption files will also be located here.
 #### Maps
 Maps of the vineyard locations will be uploaded here, as well as associated driving/transportation directions to the vineyards.
@@ -34,7 +35,7 @@ Where the researcher will upload text notes or sources relating to their finding
 ---
 
 ### Style Guide
-Contains the **style sheet** which has guidelines for document formatting (vocabulary, font and sizing)
+Contains the **style sheet** which has guidelines for document formatting (vocabulary, font and sizing).
 
 ---
 
