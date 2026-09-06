@@ -8,6 +8,8 @@ This is the repository for the team documentation project assignment for Foundat
 ### Main
 The readme is hosted here, and this is where the final draft of the guidebook will be committed to.
 
+---
+
 ### Content
 The area where the written content for the guidebook will be hosted. This branch will be broken up according to the different vineyards covered.
 
