@@ -47,6 +47,7 @@ Contains the **style sheet** which has guidelines for document formatting (vocab
 - **Production/Layout Editor** *(Seth Huskey)* - The production/layout editor will be responsible for reviewing the writing teams’ submissions to maintain the style guidelines. They will also oversee the presentation and layout of the guidebook, ensuring a consistent visual language throughout. They will be the primary point of contact regarding the style sheet used for this project.
 - **Workflow Coordinator and GitHub Repository Manager** *(Marielle Sambilay)* - This role will be responsible for the distribution of working documents and coordinating team meetings. They will be maintaining and updating the GitHub repository with ongoing and completed tasks, and update main README according to established organization and naming conventions.
 
+---
 
 ## Contributors: 
 Burke De Boer, Christine Devenny, Seth Huskey, Marcela Montoya, Marielle Sambilay
