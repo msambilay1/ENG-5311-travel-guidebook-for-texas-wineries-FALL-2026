@@ -43,7 +43,7 @@ Numbers 0-9 should be spelled out as text, numbers 10 and above should be displa
 
 If the sentence starts with a number, it should be spelled out as text. (i.e. "Seven days a week.")
 
-Arabic numerals should be used for exact figures, such as measurements, prices, dates, and times. (i.e. $7.50, 15 miles, September 17, 2026, 10:30 AM)
+Arabic numerals should be used for exact figures, such as measurements, prices, dates, and times. (i.e. 3 inches, 15 miles, $7.50, September 17, 2026, 10:30 AM)
 
 ## Visual Elements and Accessibility
 
@@ -56,8 +56,7 @@ Any images to be used in the guidebook should be have an accompanying caption an
 Maintain high contrast between text and backgrounds.
 
 ## Terminology
-
-- **Vineyard/Winery**: Unless a part of an official name, use "vineyard" when referring to the agricultural fields that grow the grapevines, and "winery" when referring to the facilities that process and produce the wine.
 - **Business Names**: Capitalize the titles of official businesses referenced. ("Adega Vinho")
-- **Vintage**: Only capitalize when a part of a name. ("Offley Vintage Port" vs. "a vintage wine")
 - **B.O.B/Private Label**: "Buyer's Own Brand." Use "Private Label" as opposed to "B.O.B." to avoid reader confusion.
+- **Vintage**: Only capitalize when a part of a name. ("Offley Vintage Port" vs. "a vintage wine")
+- **Vineyard/Winery**: Unless a part of an official name, use "vineyard" when referring to the agricultural fields that grow the grapevines, and "winery" when referring to the facilities that process and produce the wine.
