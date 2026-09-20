@@ -10,9 +10,9 @@ information that will change over time.
 
 | **Asset Category** | **Informational Gap** | **Required Action** |
 |---|---|---|
-| Winery/Vineyard Profiles | Nearby accommodations, dining options, entertainment, etc. | Research will need to be done on the local areas around the selected vineyards to provide an overall picture of the destination for travelers. |
-| Visual Assets | Maps of the local area plus vineyard, images of the destination and wines, and accompanying directions and captions | In conducting research on surrounding amenities, researcher will need to catalogue map images from Google/Apple Maps, as well as images from visitor review websites (Yelp, Google Reviews, etc.) |
-| Timeline Accuracy | Calendar of reoccurring/future events for vineyards, or seasonal hour changes. | A review of the existing information on the vineyards will need to be done to see if are any changes that happen to operating hours/offerings based on seasonal availability. |
+| *Winery/Vineyard Travel Profiles* | Nearby accommodations, dining options, entertainment, etc. | Research will need to be done on the local areas around the selected vineyards to provide an overall picture of the destination for travelers. |
+| *Visual Assets* | Maps of the local areas plus vineyards, images of the destination and wines, and accompanying travel directions and image/accessibility captions | In conducting research on surrounding amenities, researcher will need to catalogue map images from Google/Apple Maps, as well as images from visitor review websites (Yelp, Google Reviews, etc.) |
+| *Timeline Accuracy* | Calendar of reoccurring/future events for vineyards, or seasonal hour changes. | A review of the existing information on the vineyards will need to be done to see if are any changes that happen to operating hours/offerings based on seasonal availability. |
 
 ## List of Unresolved Questions for Users, Clients, or Stakeholders
 1. What information do travelers consider the most important when choosing a
