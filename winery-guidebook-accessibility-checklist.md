@@ -1,7 +1,4 @@
-# Texas Hill Country Winery Travel Guidebook
 ## Accessibility & Universal Design Quality Checklist (WCAG 2.1 AA Aligned)
-
-**Project Repository:** `ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026`  
 
 ---
 
