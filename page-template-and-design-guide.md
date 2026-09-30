@@ -15,4 +15,40 @@ Fig. 1. Guide template “Minimal” uses more white space, so there is slightly
 
 # Accessibility Checklist
 
-Text-to-background contrast for readability. If the text overlaps an image, it doesn’t get lost in the colors or tones.
+- [ ] Text-to-background contrast for readability. If the text overlaps an image, it doesn’t get lost in the colors or tones.
+- [ ] Table of contents.
+- [ ] Page numbers.
+- [ ] Page headers & footers assist orientation.
+- [ ] Scan for visual clutter.
+- [ ] Clear, plain, direct language where possible.
+
+# Design System Guide
+
+- [ ] Keep related information visually grouped
+- [ ] Maintain consistent spacing
+- [ ] Consistent linking formats/colors for wineries 
+- [ ] Use maps when they materially assist travelers and avoid cluster (show only pertinent information regarding general location and surrounding attractions)
+
+# Notes, Tips, and Warnings
+
+- [ ] Establish one consistent visual treatment for each category. Avoid using the warning formatting for ordinary extra information
+- [ ] Notes
+  - Supplemental information useful to the reader
+- [ ] Tips
+  - Optional advice that may improve the visitors experience
+- [ ] Warnings
+  - Information affecting safety, access, restrictions, or possibility of disruptions
+
+# Typography and Heading
+	
+- H1- Winery/Vineyard name
+  - Used once at the beginning of each winery entry
+  - Largest heading
+- H2- Major content sections
+  - Used for major categories
+- H3- Subsections
+  - Used to organize information with H2 section
+- Body Text
+  - Follow established style guide
+  - Consistent size, spacing, and alignment
+  - Favor short concise paragraphs
