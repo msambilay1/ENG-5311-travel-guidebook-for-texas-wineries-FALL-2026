@@ -1,7 +1,6 @@
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/austin-winery_4.jpg?raw=true" width="350" align="right">
                   
 # The Austin Winery
-
-![Alt text](https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/austin-winery_4.jpg?raw=true)
 
 ## AUSTIN
 There are plenty of options for great wine around Austin, but The Austin Winery is the only full-production winery in city limits. Owned and operated by a young team of winemakers, this urban winery produces all natural wines from all Texas grapes.
