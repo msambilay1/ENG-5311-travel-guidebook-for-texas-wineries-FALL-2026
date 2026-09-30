@@ -41,14 +41,14 @@ Fig. 1. Guide template “Minimal” uses more white space, so there is slightly
 
 # Typography and Heading
 	
-- H1- Winery/Vineyard name
+- **H1**- Winery/Vineyard name
   - Used once at the beginning of each winery entry
   - Largest heading
-- H2- Major content sections
+- **H2**- Major content sections
   - Used for major categories
-- H3- Subsections
+- **H3**- Subsections
   - Used to organize information with H2 section
-- Body Text
+- **Body Text**
   - Follow established style guide
   - Consistent size, spacing, and alignment
   - Favor short concise paragraphs
