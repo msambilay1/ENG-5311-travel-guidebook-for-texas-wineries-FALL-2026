@@ -12,7 +12,7 @@ Tasting flights are available at $20 for your pick of 3 glasses.
 For food options, just out their front door you’ll find Polvo’s Taco Truck, Reem’s Jerusalem Street Food, and For Cod’s Sake fish and chips. If you arrive early, Nougatine Bakery also operates daily within The Austin Winery space, 7:30 AM - 2 PM.
 > **NOTE**: The tasting room is a reservable event space, so call or check their Instagram if they’re closed for a private event before you go. You can also time your visit around public events. The Seafood Dude’s pop-ups are highly recommended for oyster pairings.
 
-
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/austin-winery_5.jpg?raw=true" width="600" align="center">
 
 Co-winemaker Adrienne Ash also sells her own label, Ash Wines, here, uniquely aged in the clay amphorae you’ll see in the tasting room.
 
