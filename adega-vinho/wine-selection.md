@@ -24,6 +24,8 @@ Price: $50/bottle
 
 
 ## ![2022 Estate Rose](https://store.adegavinho.com/2023-ros-estate-p180.aspx)
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/adega-vinho/wines/rose-estate.jpg?raw=true" width="150" align="right">
+
 ### Rose
 
 50% Tempranillo, 50% Mourvèdre, Bilger Family Vineyards | Hand harvested, whole cluster pressed then fermented and aged in a proprietary barrel system.
