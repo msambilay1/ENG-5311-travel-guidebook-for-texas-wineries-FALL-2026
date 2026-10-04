@@ -1,1 +1,31 @@
+# Current Content Gaps and Known Questions
 
+## The Austin Winery
+- [x] Destination Guide
+- [x] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
+
+## Jaclynn Renee
+- [ ] Destination Guide
+- [ ] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
+
+## Saint Tryphon
+- [ ] Destination Guide
+- [ ] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
+
+## Dry Comal Creek
+- [ ] Destination Guide
+- [x] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
+
+## Wildseed Farms
+- [ ] Destination Guide
+- [ ] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
