@@ -7,8 +7,8 @@ Located just outside Fredericksburg in the heart of Texas wine country, east of 
 > 100 Legacy Dr, Fredericksburg, TX 78624
 
 ## From Fredericksburg?
-If you're coming from Fredericksburg, take U.S. Highway 290 East toward Stonewall. Continue east through town and stay on U.S. Highway 290. Look for the entrance to Wildseed Farms, then turn onto Legacy Drive. Follow Legacy Drive to 100 Legacy Drive.
+If you're coming from Fredericksburg, take U.S. Highway 290 East toward Stonewall. Continue east through town and stay on U.S. Highway 290. Look for the entrance to Wildseed Farms, then turn onto Legacy Drive. 
 ## From Austin?
-If you're coming from Austin, take U.S. Highway 290 West through Dripping Springs and Johnson City. Stay on U.S. Highway 290 as you continue toward Fredericksburg. Look for the Wildseed Farms entrance and turn onto Legacy Drive. Follow Legacy Drive to 100 Legacy Drive.
+If you're coming from Austin, take U.S. Highway 290 West through Dripping Springs and Johnson City. Stay on U.S. Highway 290 as you continue toward Fredericksburg. Look for the Wildseed Farms entrance and turn onto Legacy Drive.
 ## From San Antonio?
-If you're coming from San Antonio, take I-10 west toward Kerrville, then follow U.S. Highway 87 north to Fredericksburg. Take U.S. Highway 290 east toward Stonewall and continue past the city limits. Follow the signs for Wildseed Farms, turn onto Legacy Drive, and continue to 100 Legacy Drive.
+If you're coming from San Antonio, take I-10 West toward Boerne and Comfort. Take U.S. Highway 87 North toward Fredericksburg. Continue through Comfort on Front Street, then stay on U.S. Highway 87 toward Fredericksburg. Once you reach town, turn right onto U.S. Highway 290 East. Continue east, then turn onto Legacy Drive.
