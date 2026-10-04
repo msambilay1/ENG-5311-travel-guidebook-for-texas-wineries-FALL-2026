@@ -1,7 +1,6 @@
 # Table of Contents
 
 ## 1. Introduction
-Purpose of guidebook
 
 ## 2. The Austin Winery
 
@@ -33,4 +32,4 @@ Purpose of guidebook
   - ### Getting to Wildseed Farms
   - ### Notable Wines
 
-## 8. Conclusion
+
