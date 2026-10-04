@@ -29,3 +29,9 @@
 - [ ] Driving Directions
 - [x] Wine Selection
 - [ ] Visual Assets/Layout
+
+## Adega Vinho
+- [ ] Destination Guide
+- [ ] Driving Directions
+- [x] Wine Selection
+- [ ] Visual Assets/Layout
