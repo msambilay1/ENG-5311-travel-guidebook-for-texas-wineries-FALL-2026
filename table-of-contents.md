@@ -1,20 +1,36 @@
-# Travel Guidebook to Texas Wineries
+# Table of Contents
 
-## Table of Contents
-
-### 1. Introduction
+## 1. Introduction
 Purpose of guidebook
 
-### 2. Example Vineyard 1
+## 2. The Austin Winery
 
-### 3. Example Vineyard 2
+  - ### Getting to the Austin Winery
+  - ### Notable Wines
 
-### 4. Example Vineyard 3
+## 3. Jaclynn Renee Wine Collective
 
-### 5. Example Vineyard 4
+  - ### Getting to Jaclynn Renee
+  - ### Notable Wines
 
-### 6. Example Vineyard 5
+## 4. Dry Comal Creek Vineyards
 
-### 7. Available wines for purchase
+  - ### Getting to Dry Comal Creek
+  - ### Notable Wines
 
-### 8. Conclusion
+## 5. Adega Vinho
+
+  - ### Getting to Adega Vinho
+  - ### Notable Wines
+
+## 6. Saint Tryphon Farm & Vineyard
+
+  - ### Getting to Saint Tryphon
+  - ### Notable Wines
+
+## 7. Wildseed Farms
+
+  - ### Getting to Wildseed Farms
+  - ### Notable Wines
+
+## 8. Conclusion
