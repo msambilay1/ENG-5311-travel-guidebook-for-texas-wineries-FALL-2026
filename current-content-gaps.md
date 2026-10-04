@@ -47,3 +47,4 @@
 2. We are missing research into limited/seasonal events occurring at the vineyards.
 3. Unifying language style across the driving directions for each destination.
 4. What will be the final content coverage of the destination guide section? The destination guide section runs a little short and needs to be filled out with more information (events, traveler recommendations).
+5. Wine tasting descriptions should be added (dry, acidity, sweet, etc.).
