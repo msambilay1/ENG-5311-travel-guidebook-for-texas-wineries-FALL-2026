@@ -1,4 +1,4 @@
-# NOTABLE WINES
+# Notable Wines
 
 ## Mourvèdre 2024
 <img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/wines/mourvedre.jpg?raw=true" width="150" align="right">
