@@ -32,7 +32,7 @@
 
 ## Adega Vinho
 - [ ] Destination Guide
-- [ ] Driving Directions
+- [x] Driving Directions
 - [x] Wine Selection
 - [ ] Visual Assets/Layout
 
