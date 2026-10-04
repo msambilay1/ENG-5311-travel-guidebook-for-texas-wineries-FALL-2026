@@ -8,7 +8,7 @@
 
 ## Jaclynn Renee
 - [ ] Destination Guide
-- [ ] Driving Directions
+- [x] Driving Directions
 - [x] Wine Selection
 - [ ] Visual Assets/Layout
 
@@ -26,7 +26,7 @@
 
 ## Wildseed Farms
 - [ ] Destination Guide
-- [ ] Driving Directions
+- [x] Driving Directions
 - [x] Wine Selection
 - [ ] Visual Assets/Layout
 
@@ -39,3 +39,4 @@
 ## Questions/Issues:
 1. We need to make the wine descriptions more applicable to laymen - need to provide definitions for some of the terms used in descriptions.
 2. We are missing research into limited/seasonal events occurring at the vineyards.
+3. Unifying language style across the driving directions for each destination.
