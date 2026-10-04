@@ -1,7 +1,9 @@
-# :wine_glass: Travel Guidebook for Texas Wineries
+# :wine_glass: Hill Country Wineries: An Overview for Texas Wine Tourists
 
 ## :speaker: Overview 
 This is the repository for the team documentation project assignment for Foundations of Technical Communication. We will be working on a travel guidebook for vineyards located in the Texas Hill Country area. This guidebook is intended to provide an all-in-one overview for travelers to reduce the need to refer to multiple websites and sources. This repository will serve as a file server and change documentation for the guidebook, as well as a communication platform for the team regarding ongoing and future tasks.
+
+> This guidebook is your all-in-one reference for wine connoisseurs who've made their way to the heart of Texas. We're presenting some of the most notable wineries in key Texan destinations to help you plan your itinerary in some of the richest wine destinations in the U.S.A! Whether you're deciding on where to spend a weekend trip, or planning a multi-stop tour to all the sommeliers' favorites, this guidebook is the one stop resource for you!
 
 ## :bookmark_tabs: Directory
 
