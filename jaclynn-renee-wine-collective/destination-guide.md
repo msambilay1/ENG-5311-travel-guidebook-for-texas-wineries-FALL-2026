@@ -1,1 +1,2 @@
-
+Jaclynn Renée Wines was started by Jackie van Sant-Downes, a Texas native who made wine in Sonoma before coming home and working as winemaker for Driftwood Estates in 2021. She opened her own tasting room on Wimberley Square in 2026.
+The Jaclynn Renée Wine Collective is a welcoming tasting room and wine bar in the heart of Wimberley — rooted in thoughtfully crafted wines, local art, and shared experiences. 
