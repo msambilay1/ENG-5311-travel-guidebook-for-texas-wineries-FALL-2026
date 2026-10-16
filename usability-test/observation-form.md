@@ -129,6 +129,6 @@ Observer Notes:
 1. Rate the user experience when locating the required information from 1 (lowest) to 5 (highest).
 2. Rate the information structure of the guidebook-- the headings and section labels from 1 (unclear) to 5 (intuitive).
 3. Rate the destination information provided from 1 (lacking) to 5 (excessive).
-4. Rate the accessibility of the layout on the chosen device from 1 (poor) to 5 (excellent).
+4. Rate the accessibility of the layout on the chosen format from 1 (poor) to 5 (excellent).
 5. If you could make a recommendation to change or improve the guidebook in any way, what would it be?
 > Insert answer here
