@@ -54,4 +54,8 @@ Price: $34/bottle (members only)
 
 Notes: Bramble, dark chocolate, and baking spices
 
+Cabernet Sauvignon’s bold tannins and full body make it ideal for rich, savory, and umami-driven dishes that can stand up to its intensity. Malbec’s combination of dark fruit, moderate tannins, and smoky undertones makes it especially suited to charred, savory, and umami-rich foods. Merlot consists of medium to full body, soft tannins, and fruit-forward profile.
+
+Food pairings: Ribeye steak, lamb chops, braised short ribs for proteins; aged Cheddar, Comte, and aged Gouda for cheeses; portobello mushrooms, roasted root vegetables, and mushroom pate for vegetarian options
+
 Price: $37/bottle
