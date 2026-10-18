@@ -4,6 +4,7 @@
 2. Brief descriptions of the lodging options were noted to be a helpful addition.
 3. Formatting of the main guidebook sections could be improved to move important information (operating hours) to forefront.
 4. Working on additional overview section in introduction.
+5. Images missing captions and alt text.
 
 ## Visual revisions - not main priority
 1. Adjusting image cropping for the guidebook to be consistent.
