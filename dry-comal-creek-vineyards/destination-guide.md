@@ -12,7 +12,7 @@ Plan to linger over a bottle, share a charcuterie board or pizza, and check the 
 
 > One important detail: this is an adults-only destination, with all guests required to be 21 or older.
 
-<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/dry-comal-creek/dry-comal-creek_1.jpg?raw=true" width = "350" align="left">
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/dry-comal-creek/dry-comal-creek_1.jpg?raw=true" width="280" height="330" align="left">
 
 | **Day** 	| **Hours** 	|
 |---	|---	|
@@ -23,3 +23,16 @@ Plan to linger over a bottle, share a charcuterie board or pizza, and check the 
 | Friday 	| 12-6 PM	|
 | Saturday 	| 12-6 PM	|
 | Sunday 	| 12-6 PM 	|
+
+---
+
+### Looking for lodging options nearby? Check out these featured options!
+
+- **Hideout on the Horseshoe** - $99-129/night 
+> 515 FM2673, Canyon Lake, TX 78133 
+- **Hampton Inn Bulverde Texas Hill Country** - $115-141/night 
+> 499 Singing Oaks, Spring Branch, TX 78070 
+- **Canyon Lakeview Resort** - $100-113/night 
+> 872 Ledgerock Dr, Canyon Lake, TX 78133 
+- **The Homestead Cottages** - $207/night 
+> 595 Charter Oak Dr, Canyon Lake, TX 78133 
