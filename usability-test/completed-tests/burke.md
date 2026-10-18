@@ -1,31 +1,29 @@
 ## Testing Session Details
-Date & Time: 10/18/2026 8:00 AM
-Participant ID (generated from first and last initial and tester ID): AD2
-Observer Name: Burke De Boer
-
-Device:
+1. Date & Time: 10/18/2026 8:00 AM
+2. Participant ID (generated from first and last initial and tester ID): AD2
+3. Observer Name: Burke De Boer
+4. Device:
 - [ ] iOS
 - [ ] Android
 - [x] Desktop
 - [ ] Physical
-
-Age range:
+5. Age range:
 - [ ] 21 - 25
 - [x] 25 - 35
 - [ ] 35 - 45
 - [ ] 45 - 55
 - [ ] 55+
 
-Prior Experience
-Have you ever visited a winery before?
+## Prior Experience
+6. Have you ever visited a winery before?
 - [x] Yes
 - [ ] No
 
-Have you ever used a travel guidebook to plan a trip?
+7. Have you ever used a travel guidebook to plan a trip?
 - [x] Yes
 - [ ] No
 
-When planning a trip, what information do you consider most important?
+8. When planning a trip, what information do you consider most important?
 > Public reviews
 
 ## Usability Tasks
