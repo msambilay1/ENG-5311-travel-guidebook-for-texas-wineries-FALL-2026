@@ -1,4 +1,4 @@
-# New Braunfels
+# NEW BRAUNFELS
 
 <img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/dry-comal-creek/dry-comal-creek_2.jpg?raw=true" width="350" align="right">
 
