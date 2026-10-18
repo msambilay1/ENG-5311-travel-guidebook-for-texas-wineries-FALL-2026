@@ -19,3 +19,13 @@ Outside food is permitted, and barbecue may be eaten outdoors only. The winery a
 | Friday 	| 12-5 PM 	|
 | Saturday 	| 11-5 PM 	|
 | Sunday 	| 12-5 PM 	|
+
+### Looking for lodging options nearby? Check out these featured options!
+- **Paniolo Ranch** - $161/night 
+> 1510 Ranch Rd 473, Boerne, TX 78006 
+- **Top of the Hill RV Resort & Cabins** - $100/night 
+> 12 Green Cedar Rd, Boerne, TX 78006 
+- **The Kendall Inn** - $91-129/night 
+> 128 W Blanco Rd, Boerne, TX 78006 
+- **Tapatio Springs Hill Country Resort** - $149-162/night 
+> 1 Resort Way, Boerne, TX 78006 
