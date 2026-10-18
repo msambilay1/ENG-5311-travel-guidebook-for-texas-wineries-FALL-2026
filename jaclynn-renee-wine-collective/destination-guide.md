@@ -20,3 +20,13 @@ The Jaclynn Renée Wine Collective is a welcoming tasting room and wine bar in t
 | Friday 	| 11-8 PM 	|
 | Saturday 	| 11-8 PM 	|
 | Sunday 	| 11-6 PM 	|
+
+### Looking for lodging options nearby? Check out these featured options!
+- **Square Inn & the Legacy Lounge** - $155-209/night
+> 110 Oak Drive, Wimberley Square, Wimberley, TX 78676
+- **Wimberly Inn + Bar** - $130-131/night
+> 200 Ranch to Market Rd 3237, Wimberley, TX 78676 
+- **Hotel Flora & Fauna**- $153-169/night 
+> 400 River Rd, Wimberley, TX 78676 
+- **Creekhaven Inn & Spa** - $294/night 
+> 400 Mill Race Ln, Wimberley, TX 78676 
