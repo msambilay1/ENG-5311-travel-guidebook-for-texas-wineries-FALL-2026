@@ -22,3 +22,14 @@ They offer a five-pour dry wine tasting or sweet wine tasting for $25 per person
 | Friday 	| 11-6 PM 	|
 | Saturday 	| 11-6 PM 	|
 | Sunday 	| 12-9 PM 	|
+
+### Looking for lodging options nearby? Check out these featured options!
+- **Rarumpelpunzeldornaschenwittchen B&B** - $157-164/night 
+> 527 Chaparral Dr, Fredericksburg, TX 78624 
+- **Camp Hideaway** - $171/night 
+> 123 Golden Sunset Trl, Fredericksburg, TX 78624 
+- **Vineyard Trail Cottages** - $229-232/night 
+> 10296 East US Highway #290, Fredericksburg, TX 78624 
+- **Astriya Domes** - $357/night 
+> 1947 Double C Rd, Fredericksburg, TX 78624 
+
