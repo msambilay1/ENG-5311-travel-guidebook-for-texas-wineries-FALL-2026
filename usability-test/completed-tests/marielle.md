@@ -4,10 +4,10 @@
 2. Participant ID (generated from first and last initial and tester ID): RC1  
 3. Observer Name: Marielle Sambilay  
 4. Device:  
-- [x] ~~iOS~~  
-- [ ] Android  
-- [ ] Desktop  
-- [ ] Physical  
+	- [x] ~~iOS~~  
+	- [ ] Android  
+	- [ ] Desktop  
+	- [ ] Physical  
 5. Age range:  
    - [x] ~~21 \- 25~~  
    - [ ] 25 \- 35  
@@ -18,11 +18,11 @@
 ## **Prior Experience**
 
 6. Have you ever visited a winery before?  
-- [ ] Yes  
-- [x] ~~No~~  
+	- [ ] Yes  
+	- [x] ~~No~~  
 7. Have you ever used a travel guidebook to plan a trip?  
-- [x] ~~Yes~~  
-- [ ] No  
+	- [x] ~~Yes~~  
+	- [ ] No  
 8. When planning a trip, what information do you consider most important?  
    “I consider the food most important, so I keep in mind what restaurants are around my destination.”
 
