@@ -1,6 +1,6 @@
 # Wimberly
 
-<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/jaclynn-renee/jaclynn-renee_1.jpg?raw=true" align="right">
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/jaclynn-renee/jaclynn-renee_1.jpg?raw=true" width="350" align="right">
 
 ## Jaclynn Renée Wine Collective
 
