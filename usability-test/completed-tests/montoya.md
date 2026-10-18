@@ -2,7 +2,7 @@
 
 Testing Session Details
 1.	Date & Time: 10/18/2026 11:30 am
-2.	Participant ID (generated from first and last initial and tester ID): AM01
+2.	Participant ID (generated from first and last initial and tester ID): AM3
 3.	Observer Name: Marcy Montoya
 4.	Device:
 ●	iOS
