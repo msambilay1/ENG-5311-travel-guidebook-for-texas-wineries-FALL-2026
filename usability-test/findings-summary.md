@@ -2,7 +2,7 @@
 
 ## Test Report
 
-Participants were asked to perform five linked tasks using the travel guidebook's current draft, creating a mock itinerary of their trip to a selected winery (or wineries). Participants were asked to speak aloud during their process of searching for information, while the observer wrote down additional non-verbal details observed. 
+Participants were asked to perform five linked tasks using the travel guidebook's current draft, creating a mock itinerary of their trip to a selected winery (or wineries). Participants were asked to speak aloud during their process of searching for information, while the observer wrote down additional non-verbal details observed. Participants were timed, but not rushed, to complete tasks, and were allowed to ask clarification questions of the observer during the task.
 
 ## Participant Descriptions
 
