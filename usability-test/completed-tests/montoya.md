@@ -21,7 +21,7 @@
 - [ ] No
 7.	Have you ever used a travel guidebook to plan a trip?
 - [ ] Yes
-- [ ] No
+- [x] No
 8.	When planning a trip, what information do you consider most important?
 > Budget and costs of travel
 ## Usability Tasks
