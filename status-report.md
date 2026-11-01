@@ -32,15 +32,15 @@ Based on the usability testing findings, it is recommended that we prioritize im
 
 **1. Expand travel and lodging information**
 
-The team should begin by reviewing our existing travel related logistics information such as lodging and transportation and identify where additional information would benefit readers. This is grounded in the usability feedback where users suggested adding approximate driving distances or tavel times between the vineyard and its associated lodging/outside activities.
+The team should begin by reviewing our existing travel related logistics information such as lodging and transportation and identify where additional information would benefit readers, such as rideshare options, other nearby attractions, and direct website links for lodging. This is grounded in the usability feedback where users suggested adding approximate driving distances or travel times between the vineyard and its associated lodging/outside activities. 
 
 **2. Improve dining recommendations**
 
-The team should expand the dining information associated to the nearby options of the vineyards. This could look like suggested pairings, proximity considerations, and pricing for the best paired meal for the wine.
+The team should expand the dining information associated to the nearby options of the vineyards. This was a consistent point mentioned during usability testing, as users desired more dining options presented. This could look like suggested pairings, proximity considerations, and pricing for the best paired meal for the wine.
 
 **3. Address accessibility and navigation issues**
 
-The team should review the guidebooks formatting to identify and correct the navigation problems observed during usability testing. Specifically, the PDF formatting issues, the table of contents working improperly, and the images lacking captions as noted by users.
+The team should review the guidebooks formatting to identify and correct the navigation problems observed during usability testing. Specifically, the PDF formatting issues, the table of contents working improperly, and the images lacking captions as noted by users. Users had also noted what information they would prefer to be presented sooner, so the team will re-evaluate the structural viability of the sections and whether some pieces of information would benefit from being moved to a new section.
 
 **4. Integrate revisions and review**
 
