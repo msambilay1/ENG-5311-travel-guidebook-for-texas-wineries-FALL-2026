@@ -26,19 +26,19 @@ With this draft, the team conducted usability testing to evaluate the guidebook'
 However, testing also revealed opportunities to improve the guidebook's usefulness as a comprehensive one-stop resource. 
 
 ### Recommendations and Rationale:
-Based on the usability testing findings, it is recommended that we prioritize improvements to travel logistics, dining recommendations and pairings, and document accessibility. Based on user feedback, the guidebook should include more specifics that would eliminate the need for external resources.The team's recommendations, therefore, is to focus on refining and expanding existing content rather than restructuring the guidebook. By incorporating more detailed travel logistics, additional dining recommendations, and accessibility improvements, the guidebook can better fulfill its intended purpose as a holistic travel resource.
+Based on the usability testing findings, it is recommended that we prioritize improvements to travel logistics, dining recommendations and pairings, and document accessibility. Based on user feedback, the guidebook should include more specifics that would eliminate the need for external resources. The team's recommendations, therefore, is to focus on refining and expanding existing content rather than restructuring the guidebook. By incorporating more detailed travel logistics, additional dining recommendations, and accessibility improvements, the guidebook can better fulfill its intended purpose as a holistic travel resource.
 
 ## Next Steps
 
-1. Expand travel and lodging information
+**1. Expand travel and lodging information**
 The team should begin by reviewing our existing travel related logistics information such as lodging and transportation and identify where additional information would benefit readers. This is grounded in the usability feedback where users suggested adding approximate driving distances or tavel times between the vineyard and its associated lodging/outside activities.
 
-2. Improve dining recommendations
-The team should expand the dining information associated to the nearby options of the vineyards. This could look like suggested pairings, proximity considerations, and pricing for the best paired meal for the wine
+**2. Improve dining recommendations**
+The team should expand the dining information associated to the nearby options of the vineyards. This could look like suggested pairings, proximity considerations, and pricing for the best paired meal for the wine.
 
-3. Address accessibility and navigation issues
+**3. Address accessibility and navigation issues**
 The team should review the guidebooks formatting to identify and correct the navigation problems observed during usability testing. Specifically, the PDF formatting issues, the table of contents working improperly, and the images lacking captions as noted by users.
 
-4. Integrate revisions and review
+**4. Integrate revisions and review**
 The team should work to incorporate the revisions suggested from the usability testing and do a final review. 
 
