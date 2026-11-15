@@ -1,11 +1,10 @@
 # Notable Wines
 
-## Mourvèdre 2024
-<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/wines/mourvedre.jpg?raw=true" width="150" align="right">
+## Don't Mess with Texas
+<img src="https://github.com/msambilay1/ENG-5311-travel-guidebook-for-texas-wineries-FALL-2026/blob/assets/images/the-austin-winery/wines/dont-mess-with-texas.jpg?raw=true" width="150" align="right">
 
 ### Red
-93% Mourvèdre, Salt Lick Vineyards | 
-7% Alicante Bouschet, Salt Lick Vineyards |
+100% Mourvèdre, D2 and Stoneledge Vineyards
 
 Field blend fermented whole-cluster.
 Notes of _plum, cedar, wild herbs._
@@ -14,7 +13,8 @@ Mourvèdre is full-bodied, with flavors of plum, blackberry, dark chocolate, bla
 
 Food pairings: Lamb, beef, venison for proteins; smoked cheddar, smoked gouda, aged provolone for cheese; eggplant and lentils for vegetarian options.
 
-$13/glass | $35/bottle
+
+$42/bottle
 
 
 ## Acqua Pazza
